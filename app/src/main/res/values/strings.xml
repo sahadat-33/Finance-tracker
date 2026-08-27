@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    <string name="widget_cash_balance_name">Cash Balance</string>
+    <string name="widget_cash_balance_description">View your live Cash Balance at a glance.</string>
+    <string name="widget_cash_balance_label">Cash Balance</string>
+    <string name="widget_add_transaction">Add transaction</string>
+</resources>
